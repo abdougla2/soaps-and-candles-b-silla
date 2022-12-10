@@ -1,0 +1,107 @@
+img {
+  height: 250px;
+  width: 250px;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80%;
+}
+
+input {
+  height: 15px;
+}
+
+.navBar {
+  display: flex;
+  justify-content: space-around;
+  width: 16%;
+  margin-left: 1550px;
+}
+{/* ask about spacin gof search bar and icons */}
+
+
+.header {
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 50%;
+  margin: 0 auto;
+  font-size: 18px;
+}
+{/* ask about adjusting border so text will be centered inside */}
+
+a {
+  color: #9d4897;
+  text-decoration: none;
+}
+{/* ask about changing color of tab text*/}
+
+.Home {
+position: relative;
+top: 0;
+left: 0;
+}
+
+#homePic {
+  width: 100vw;
+  height: 600px;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.centeredText {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgb(240, 238, 238);
+  font-size: 25px;
+  text-shadow: 2px 2px #9d4897;
+  padding: 30px;
+  border: solid;
+  
+}
+
+#secondLine {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#thirdLine{
+  position: absolute;
+  top: 130%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#bioPic{
+  height: 685px;
+  width: 100vw;
+  border-radius: 3rem;
+  margin-top: 1rem;
+}
+
+#aboutTitle{
+  color: #9d4897;
+  text-align: center;
+  border-top: solid;
+  border-bottom: solid;
+  border-width: 1.5px;
+  padding: 20px;
+}
+
+.bioAndPic{
+  padding: 50px;
+}
+
+#bio{
+  font-size: 23px;
+  color: #9d4897;
+}
