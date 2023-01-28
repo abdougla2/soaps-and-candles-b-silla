@@ -66,9 +66,6 @@ I appreciate everyone who takes the time to support my small business! With Godâ
 great success. <br/>
 Silla.</p>
     </div>
-    <div>
-        <p><img src='./biopic.jpg' id='bioPic'/></p>
-    </div>
     </div>
     
 </div>
